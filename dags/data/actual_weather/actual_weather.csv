@@ -1,0 +1,7 @@
+city,date,average temperature,min temperature,max temperature,humidity,pressure,wind speed,description
+Antananarivo,2025-07-05,13.97,13.97,13.97,88,1024,3.6,scattered clouds
+Nairobi,2025-07-05,20.05,18.75,20.05,68,1016,3.6,broken clouds
+New York,2025-07-05,27.5,25.97,29.05,43,1021,3.13,clear sky
+Paris,2025-07-05,26.62,25.62,29.01,27,1017,4.63,clear sky
+Sydney,2025-07-05,12.06,10.16,13.6,85,1020,3.6,overcast clouds
+Tokyo,2025-07-05,28.4,27.17,28.88,77,1003,1.54,broken clouds
